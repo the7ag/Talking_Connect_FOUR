@@ -18,6 +18,10 @@ To play the game, simply drop the colored tokens into the game board using the I
 ## Video of the game 
 
 
+https://github.com/the7ag/Talking_Connect_FOUR/assets/95578914/5fbf2f19-a2d6-401c-a504-ebc9cbefd1dd
+
+
+
 ## Contribution
 If you'd like to contribute to Talking Connect Four, please feel free to fork this repository and submit a pull request. We welcome contributions from anyone interested in helping us improve this project and make it more accessible to people with communication disorders.
 
